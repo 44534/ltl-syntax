@@ -1,5 +1,6 @@
 ltl-syntax
 ==========
+[![Build Status](https://travis-ci.org/44534/ltl-syntax.svg?branch=master)](https://travis-ci.org/44534/ltl-syntax)
 
 A Haskell module for parsing, printing and generating LTL formulae.
 
